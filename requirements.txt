@@ -1,0 +1,9 @@
+colored==2.2.4
+pystyle==2.9
+Pillow==11.0.0
+telethon==1.30.3
+telebot==0.0.5
+nest_asyncio==1.6.0
+termcolor==2.5.0
+requests==2.31.0
+fake_useragent==1.5.1
