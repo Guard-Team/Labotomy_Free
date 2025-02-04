@@ -1,4 +1,5 @@
 # Labotomy_Free Crack
+# От Guard Team
 🔔 Приветствуем всех! 🔔
 
 🔥 Долгожданный релиз — Labotomy Free! 🔥
@@ -25,7 +26,7 @@
 
 # 💻 Установка:
 
-git clone https://github.com/ScullTeam/Labotomy_Free.git
+git clone https://github.com/Guard-Team/Labotomy_Free.git
 
 cd Labotomy_Free
 
